@@ -10,4 +10,4 @@ replace "+" with a "o"
 replace "!" with a "u"
 ```
 ## How to use
-You simply need to type in the word/s, sentence/s, or paragraph/s that you want to decrypt when you see the `Input the encrypted text/s to decrypt: ` prompt.
+You simply need to type in the word/s, sentence/s, or paragraph/s that you want to decrypt when you see the `Input the encrypted text/s to decrypt: ` prompt. After typing your encrypted text/s, it will show the result after 1 second.
