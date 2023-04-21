@@ -6,6 +6,8 @@ user_input = input('\n\033[92mInput the encrypted text/s to decrypt: ')
 user_input = user_input.replace('*','a')
 
 # if &, change to e
+user_input = user_input.replace('&','e')
+
 # if #, change to i
 # if +, chenge to o
 # if !, change to u
