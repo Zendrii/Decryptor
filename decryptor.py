@@ -15,4 +15,6 @@ user_input = user_input.replace('#','i')
 user_input = user_input.replace('+','o')
 
 # if !, change to u
+user_input = user_input.replace('!','u')
+
 # print the output
