@@ -1,3 +1,5 @@
+print('\033[92m='*158)
+
 # ask the user for input 
 user_input = input('\n\033[92mInput the encrypted text/s to decrypt: ')
 
@@ -18,4 +20,9 @@ user_input = user_input.replace('+','o')
 user_input = user_input.replace('!','u')
 
 # print the output
+print('\nProcessing. . . . .')
+import time
+time.sleep(1)
 print('\nDecrypted text/s: ', '\033[1m', user_input, '\n')
+
+print('\033[92m='*158)
