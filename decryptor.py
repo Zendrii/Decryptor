@@ -12,5 +12,7 @@ user_input = user_input.replace('&','e')
 user_input = user_input.replace('#','i')
 
 # if +, chenge to o
+user_input = user_input.replace('+','o')
+
 # if !, change to u
 # print the output
