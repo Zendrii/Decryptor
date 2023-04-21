@@ -18,3 +18,4 @@ user_input = user_input.replace('+','o')
 user_input = user_input.replace('!','u')
 
 # print the output
+print('\nDecrypted text/s: ', '\033[1m', user_input, '\n')
