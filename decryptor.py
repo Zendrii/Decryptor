@@ -9,6 +9,8 @@ user_input = user_input.replace('*','a')
 user_input = user_input.replace('&','e')
 
 # if #, change to i
+user_input = user_input.replace('#','i')
+
 # if +, chenge to o
 # if !, change to u
 # print the output
